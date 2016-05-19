@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>WBButton</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string> UIButton *button=[[UIButton alloc]initWithFrame:CGRectMake(&lt;#NSObject#&gt;, &lt;#NSObject#&gt;, &lt;#NSObject#&gt;, &lt;#NSObject#&gt;)];
+    [button setTitle:&lt;#NSObject#&gt; forState:UIControlStateNormal];
+    [button setTitleColor:&lt;#NSObject#&gt; forState:UIControlStateNormal];
+    [button addTarget:self action:@selector(&lt;#NSObject#&gt;) forControlEvents:UIControlEventTouchUpInside];
+    [&lt;#NSObject#&gt; addSubview:button];</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>7515097B-ED01-4DAD-A143-87E74E39E77F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>WBButton</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
